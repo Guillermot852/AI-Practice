@@ -25,6 +25,9 @@ We are using Python as our programming base, so the initial setup is very simila
     - openai
     - ollama
     - groq
+    - curl -fsSL https://ollama.com/install.sh | sh
+    - ollama run llama3.2:3b
+        - ollama list to check the version. should say ollama 3.2:latest 
 5. Install the libraries:
     - `pip install -r requirements.txt`
 6. Create .env file with API keys
