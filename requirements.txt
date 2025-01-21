@@ -1,0 +1,12 @@
+wheel
+python-dotenv
+# part 1
+openai
+groq
+ollama
+#geopy
+langchain
+langchain-ollama
+langchain-groq
+streamlit
+llama-index
